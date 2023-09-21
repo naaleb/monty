@@ -28,9 +28,13 @@ Monty bytecode files contain instructions for manipulating the stack or queue da
 Example instructions:
 
 •	push 1: Pushes the integer 1 onto the stack.
+
 •	pop: Removes the top element from the stack.
+
 •	queue: Switches the data structure mode to Queue (FIFO).
+
 •	stack: Switches the data structure mode to Stack (LIFO).
+
 •	pall: Prints all the values in the stack/queue.
 
 Refer to the Monty documentation for a complete list of instructions.
